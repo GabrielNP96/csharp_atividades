@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\bin\Debug\net9.0\01SomaDoisNumeros.exe
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\bin\Debug\net9.0\01SomaDoisNumeros.deps.json
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\bin\Debug\net9.0\01SomaDoisNumeros.runtimeconfig.json
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\bin\Debug\net9.0\01SomaDoisNumeros.dll
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\bin\Debug\net9.0\01SomaDoisNumeros.pdb
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\01SomaDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\01SomaDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\01SomaDoisNumeros.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\01SomaDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\01SomaDoisNumeros.dll
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\refint\01SomaDoisNumeros.dll
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\01SomaDoisNumeros.pdb
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\01SomaDoisNumeros.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\AtividadesC#\nivel0\01SomaDoisNumeros\obj\Debug\net9.0\ref\01SomaDoisNumeros.dll
