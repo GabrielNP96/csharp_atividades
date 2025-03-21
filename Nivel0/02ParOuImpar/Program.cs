@@ -17,6 +17,5 @@ class EvenOrOdd
             }
         }
         Console.WriteLine(EvenOrOdd());
-
     }
 }
