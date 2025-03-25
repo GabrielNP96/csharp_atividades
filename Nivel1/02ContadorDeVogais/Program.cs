@@ -13,19 +13,7 @@ class VowelCounter
         {
             switch(letters)
             {
-                case 'a':
-                    numberOfVowel += 1;
-                    break;
-                case 'e':
-                    numberOfVowel += 1;
-                    break;
-                case 'i':
-                    numberOfVowel += 1;
-                    break;
-                case 'o':
-                    numberOfVowel += 1;
-                    break;
-                case 'u':
+                case 'a': case 'e':  case 'i': case 'o': case 'u':
                     numberOfVowel += 1;
                     break;
                 default:
